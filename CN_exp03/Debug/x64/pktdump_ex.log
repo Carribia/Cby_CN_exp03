@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props(24,5): warning MSB4211: 正在首次将属性“MsvcAnalysisPluginPath”设置为某个值，但已在“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)”处使用了该属性。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(C:\Downloads\WpdPack\Examples-pcap\\Debug\x64\)包含从另一个项目(basic_dump.vcxproj, basic_dump_ex.vcxproj, sendpack.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9028: 最小重新生成失败，正在转换为标准生成
+  pktdump_ex.c
+C:\Downloads\WpdPack\Examples-pcap\pktdump_ex\pktdump_ex.c : error C1041: 无法打开程序数据库“C:\Downloads\WpdPack\Examples-pcap\Debug\x64\vc143.pdb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
